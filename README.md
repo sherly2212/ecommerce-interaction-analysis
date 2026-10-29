@@ -45,3 +45,5 @@ lebih baik.
 - customer_details.csv tidak bisa dihubungkan karena isinya produk
   fashion AS yang berbeda dari katalog.
 - Perbedaan antar subkategori kecil dan bisa jadi kebetulan.
+
+Sumber: Kaggle, dataset "e-commerce-sales-data-2024" oleh datascientist97
