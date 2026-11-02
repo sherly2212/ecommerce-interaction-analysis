@@ -47,3 +47,5 @@ lebih baik.
 - Perbedaan antar subkategori kecil dan bisa jadi kebetulan.
 
 Sumber: Kaggle, dataset "e-commerce-sales-data-2024" oleh datascientist97
+## Proyek Lanjutan
+Analisis SQL dengan data yang sama: [sql-ecommerce-analysis](https://github.com/sherly2212/sql-ecommerce-analysis)
